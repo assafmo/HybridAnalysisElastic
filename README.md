@@ -21,4 +21,4 @@ And go to http://localhost:5601 to explore in kibana.
 
 ## License
 
-[MIT](/LICENSE.md)
+[MIT](/LICENSE)
